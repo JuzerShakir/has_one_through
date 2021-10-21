@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cashback: 1.5
+  upi: MyString
+  balance: 1.5
+  amazon_account: one
+
+two:
+  cashback: 1.5
+  upi: MyString
+  balance: 1.5
+  amazon_account: two
